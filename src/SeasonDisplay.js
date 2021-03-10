@@ -21,7 +21,7 @@ const SeasonDisplay = (props) => {
     const { text, iconName } = seasonConfig[season];  //text,iconName
     console.log(props.time);
     return (
-        <div><h4 className={`rightAlign`}>Current Time is: {props.time}</h4>
+        <div><div className={`rightAlign`}>{props.time}</div>
         <div className={`season-display ${season}`}>
             <i className={`icon-left massive ${iconName} icon`} />
             
