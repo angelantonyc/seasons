@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/seasons/static/css/main.f80ae0ee.chunk.css",
+    "main.js": "/seasons/static/js/main.944a7715.chunk.js",
+    "main.js.map": "/seasons/static/js/main.944a7715.chunk.js.map",
+    "runtime-main.js": "/seasons/static/js/runtime-main.0afbb90a.js",
+    "runtime-main.js.map": "/seasons/static/js/runtime-main.0afbb90a.js.map",
+    "static/css/2.e6fafdb6.chunk.css": "/seasons/static/css/2.e6fafdb6.chunk.css",
+    "static/js/2.6667542f.chunk.js": "/seasons/static/js/2.6667542f.chunk.js",
+    "static/js/2.6667542f.chunk.js.map": "/seasons/static/js/2.6667542f.chunk.js.map",
+    "index.html": "/seasons/index.html",
+    "static/css/2.e6fafdb6.chunk.css.map": "/seasons/static/css/2.e6fafdb6.chunk.css.map",
+    "static/css/main.f80ae0ee.chunk.css.map": "/seasons/static/css/main.f80ae0ee.chunk.css.map",
+    "static/js/2.6667542f.chunk.js.LICENSE.txt": "/seasons/static/js/2.6667542f.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/seasons/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0afbb90a.js",
+    "static/css/2.e6fafdb6.chunk.css",
+    "static/js/2.6667542f.chunk.js",
+    "static/css/main.f80ae0ee.chunk.css",
+    "static/js/main.944a7715.chunk.js"
+  ]
+}
