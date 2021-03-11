@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Seasons
+This project is developed using React.
+The aim of this project is to find the season winter/ summer and display different messages accordingly.
+
 ## Available Scripts
 
 In the project directory, you can run:
